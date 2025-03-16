@@ -30,5 +30,5 @@ Screenshots:
 
 Home Screen
 
-
+https://github.com/AnujKumarSingh007/Image-Compressor/blob/9286f14dc8a635734e73e8963c22e1813e5fe7f7/Screenshot%20(5).png
 
