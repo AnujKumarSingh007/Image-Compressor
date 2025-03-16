@@ -31,5 +31,18 @@ Screenshots:
 Home Screen
 ![image](https://github.com/user-attachments/assets/ec52b395-3b4c-4751-9b0f-6a992e0944d9)
 
+![image](https://github.com/user-attachments/assets/aeeff1ef-ccd1-426b-b0ce-b6f5388466f6)
+
+![image](https://github.com/user-attachments/assets/d03ee6be-d245-4392-a89c-a6d79ca83df7)
+
+Future Improvements
+
+•	Support for more image formats
+•	Option to resize images
+•	Progress bar for batch compression
+•	Drag-and-drop support
+
+
+
 
 
