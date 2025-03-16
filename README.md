@@ -29,6 +29,7 @@ python app.py
 Screenshots:
 
 Home Screen
+![image](https://github.com/user-attachments/assets/ec52b395-3b4c-4751-9b0f-6a992e0944d9)
 
-https://github.com/AnujKumarSingh007/Image-Compressor/blob/9286f14dc8a635734e73e8963c22e1813e5fe7f7/Screenshot%20(5).png
+
 
